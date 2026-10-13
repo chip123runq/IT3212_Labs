@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Bai02_HinhTru/Bai02_HinhTru.csproj" Id="d5cacba2-25cd-4445-8ff8-7b84b6d554aa" />
+  <Project Path="Bai03_XepLoai/Bai03_XepLoai.csproj" Id="23fb4a27-cfe6-45de-8ac6-93a26c951a3f" />
+  <Project Path="Bai04_Menu/Bai04_Menu.csproj" Id="18fee485-539c-4057-b8eb-3c7647946611" />
+  <Project Path="Bai05_PhepChia/Bai05_PhepChia.csproj" Id="70356d7b-5d9a-421d-aa04-f9b0b2e0578f" />
+  <Project Path="Bai06_PhuongTrinhBacHai/Bai06_PhuongTrinhBacHai.csproj" Id="1ca2862d-be08-47ff-a6a0-ccf509601431" />
+  <Project Path="Bai07_ThongKeDaySo/Bai07_ThongKeDaySo.csproj" Id="7bb30a44-8ad6-467e-97a0-e84626960506" />
+  <Project Path="Bai08_SoNguyenTo/Bai08_SoNguyenTo.csproj" Id="a8865c53-e9ec-4562-8296-8025c48097a6" />
+  <Project Path="Bai09_DocSo/Bai09_DocSo.csproj" Id="c70397d0-e6eb-4a2f-9d62-2d4f836bbf1e" />
+  <Project Path="Bai10_VeHinh/Bai10_VeHinh.csproj" Id="10616a51-d085-410e-9f10-8efeacb4c796" />
+  <Project Path="Lab01_Console/Lab01_Console.csproj" Id="a0f0462d-b616-485b-9417-e8f1de98caff" />
+</Solution>
